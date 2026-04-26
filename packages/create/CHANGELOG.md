@@ -1,5 +1,11 @@
 # @tanstack/create
 
+## 0.63.7
+
+### Patch Changes
+
+- chore: bump solid base and example to vite 8 ([#437](https://github.com/TanStack/cli/pull/437))
+
 ## 0.63.6
 
 ### Patch Changes
