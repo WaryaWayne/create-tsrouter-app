@@ -1,5 +1,12 @@
 # @tanstack/cli
 
+## 0.67.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @tanstack/create@0.67.0
+
 ## 0.67.0
 
 ### Minor Changes

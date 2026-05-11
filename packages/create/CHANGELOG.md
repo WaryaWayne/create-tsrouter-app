@@ -1,5 +1,13 @@
 # @tanstack/create
 
+## 0.67.0
+
+### Minor Changes
+
+- Auto-generated changeset from semantic commits on main.
+
+  - feat(create): add React PowerSync scaffolding add-on (#407) (8f24af5)
+
 ## 0.66.0
 
 ### Minor Changes

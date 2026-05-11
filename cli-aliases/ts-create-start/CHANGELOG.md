@@ -1,5 +1,13 @@
 # @tanstack/create-start
 
+## 0.59.31
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @tanstack/create@0.67.0
+  - @tanstack/cli@0.67.1
+
 ## 0.59.30
 
 ### Patch Changes
